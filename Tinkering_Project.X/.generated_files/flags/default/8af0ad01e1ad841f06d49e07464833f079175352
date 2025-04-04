@@ -1,1 +1,0 @@
- $(MP_EXTRA_CC_PRE) -g -D__DEBUG   -x c -c -mprocessor=$(MP_PROCESSOR_OPTION)  -ffunction-sections -fdata-sections -O1 -fno-common -I"../src" -I"../src/config/default" -Werror -Wall   -D=$(CND_CONF)  $(COMPARISON_BUILD)    C:\Users\lowel\OneDrive\Documents\Code Workspace\MPLAB_Projects\Tinkering_PIC32\src\config\default\stdio\xc32_monitor.c

@@ -1,0 +1,2 @@
+# Ignore MPLABX Generated files
+*.X/.generated_files
