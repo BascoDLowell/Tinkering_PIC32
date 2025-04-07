@@ -1,5 +1,10 @@
 # Ignore MPLABX Generated files
 *.X/.generated_files
 
+*.X/nbproject
+*.X/build
+*.X/dist
+*.X/Tinkering_Project.mc3.bak*
+
 # Ignore autosaved Manifest file
-*.X/mcc-manifest-autosave.yml
+**/mcc-manifest-autosave.yml
