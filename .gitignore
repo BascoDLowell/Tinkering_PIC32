@@ -1,2 +1,5 @@
 # Ignore MPLABX Generated files
 *.X/.generated_files
+
+# Ignore autosaved Manifest file
+*.X/mcc-manifest-autosave.yml
